@@ -1,0 +1,23 @@
+{
+  "name": "reactmania",
+  "version": "1.0.0",
+  "description": "React Js",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/tufaelahmedbd/react-mania#readme",
+  "bugs": {
+    "url": "https://github.com/tufaelahmedbd/react-mania/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tufaelahmedbd/react-mania.git"
+  },
+  "license": "ISC",
+  "author": "Tufael Ahmed",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
