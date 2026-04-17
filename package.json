@@ -1,10 +1,9 @@
 {
   "name": "reactmania",
   "version": "1.0.0",
-  "description": "React Js",
-  "keywords": [
-    "react"
-  ],
+  "description": "React Js Learning ",
+  
+ 
   "homepage": "https://github.com/tufaelahmedbd/react-mania#readme",
   "bugs": {
     "url": "https://github.com/tufaelahmedbd/react-mania/issues"
@@ -13,11 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/tufaelahmedbd/react-mania.git"
   },
+  "keywords": [],
   "license": "ISC",
   "author": "Tufael Ahmed",
   "type": "commonjs",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react-dom": "^19.2.5"
   }
 }
