@@ -2,8 +2,6 @@
   "name": "reactmania",
   "version": "1.0.0",
   "description": "React Js Learning ",
-  
- 
   "homepage": "https://github.com/tufaelahmedbd/react-mania#readme",
   "bugs": {
     "url": "https://github.com/tufaelahmedbd/react-mania/issues"
@@ -17,6 +15,8 @@
   "author": "Tufael Ahmed",
   "type": "commonjs",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "devDependencies": {
